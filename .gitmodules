@@ -1,0 +1,3 @@
+[submodule "content/v1"]
+	path = content/v1
+	url = https://github.com/Blog-chain/v1
