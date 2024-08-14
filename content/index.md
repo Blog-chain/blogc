@@ -5,12 +5,11 @@ aliases: [main, root]
 tags:
   - docs
 draft: false
-date: 2024-07-21
+date: 2024-08-14
 ---
 
 1. [Major themes](#major-themes)
-   - [Info](#info)
-2. [Reference](#reference)
+2. [Contributors](#contributors)
 
 ## Major themes
 
@@ -25,11 +24,23 @@ date: 2024-07-21
 - [[Misc]]
 - [[Regulation]]
 
-### Info
+## Contributors
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+### [@Null0RM](https://github.com/Null0RM)
 
-## Reference
+- [[PoS]]
+- [[Mixer]]
 
-- https://quartz.jzhao.xyz
+### [@pluto1011](https://github.com/pluto1011)
+
+> `OpenZeppelin/solidity/5.x` column
+
+- [ERC20](./v2/concepts/openzepplin/solidity/5.x/ERC20.md)
+- [ERC2771](./v2/concepts/openzepplin/solidity/5.x/ERC2771.md)
+- [upgradablePlugins](./v2/concepts/openzepplin/solidity/5.x/upgradablePlugins.md)
+
+### [@rivercastleone](https://github.com/rivercastleone)
+
+### notes
+
+- npx quartz build --serve
