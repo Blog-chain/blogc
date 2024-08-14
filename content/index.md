@@ -13,18 +13,18 @@ date: 2024-08-14
 
 ## Major themes
 
-- [[Blockchain]]
-- [[Consensus]]
-- [[Cryptocurrency]]
-- [[Cryptography]]
-- [[DeFi]]
-- [[Ethereum]]
-- [[Finance]]
-- [[Layer2]]
-- [[Misc]]
-- [[Regulation]]
+- [Blockchain](v2/concepts/Blockchain/)
+- [Consensus](v2/concepts/Consensus/)
+- [Ethereum](v2/concepts/Ethereum/)
+- [Layer2](v2/concepts/Layer2/)
+- [Cryptography](v2/concepts/Cryptography/)
+- [Cryptocurrency](v2/concepts/Cryptocurrency/)
+- [DeFi](v2/concepts/DeFi/)
+- [Finance](v2/concepts/Finance/)
+- [Regulation](v2/concepts/Regulation/)
+- [Misc](v2/concepts/Misc/)
 
-## Contributors
+## Contributions
 
 ### [@Null0RM](https://github.com/Null0RM)
 
@@ -41,6 +41,6 @@ date: 2024-08-14
 
 ### [@rivercastleone](https://github.com/rivercastleone)
 
-### notes
+#### notes
 
 - npx quartz build --serve
